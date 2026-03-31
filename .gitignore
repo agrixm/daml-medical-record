@@ -1,4 +1,4 @@
-.daml/
+dpm/
 dist/
 *.dar
 __pycache__/
